@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: TaxSense: The ITR Filing Copilot",
+  "description": "An interactive conversational copilot helping salaried individuals easily understand, parse, estimate, and prepare their ITR-1 (Sahaj) filing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
